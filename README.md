@@ -127,6 +127,8 @@ The generated reports serve as a crucial resource for security teams, offering i
 
 **Anto Jeffrin G** - [LinkedIn](https://www.linkedin.com/in/anto-jeffrin-g-90b352287/?originalSubdomain=in) - [Github](https://github.com/AntoJeffrinG)
 
+**HARISHSHANKAR A A** - [LinkedIn](https://www.linkedin.com/in/harish-shankar-a-a-08391324a/) - [Github](https://github.com/Harish47007)
+
 <h2>License</h2>
 
 This project is licensed under **Apache License 2.0**
